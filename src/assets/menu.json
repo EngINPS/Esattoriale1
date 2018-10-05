@@ -1,0 +1,23 @@
+{"menu":[
+    {"name": "Gestione", "link": "0", "sub": [
+        {"name": "Ricerca assicurato","link": "0-0", "sub": null},
+        {"name": "Ricerca pratiche","link": "0-1", "sub": null},
+        {"name": "Cud e 770","link": "0-2", "sub": null}
+        ]},
+    {"name": "Domande", "link": "1", "sub": [
+        {"name": "Ricerca","link": "1-0", "sub": null}
+    ]},        
+    {"name": "Pagamenti", "link": "2","sub": [
+        {"name": "Emissioni","link": "2-1", "sub": null},
+        {"name": "Disposti","link": "2-2", "sub": null}
+	]},
+	{"name": "Biglietto contabile", "link": "3","sub": [
+        {"name": "Emissioni","link": "3-1", "sub": null},
+        {"name": "Biglietto contabili emessi","link": "3-2", "sub": null}
+	]},
+	{"name": "Configurazione", "link": "4","sub": [
+        {"name": "Saggio di interesse","link": "4-1", "sub": null},
+        {"name": "Rivalutazione monetaria","link": "4-2", "sub": null},
+		{"name": "Firma stampe","link": "4-3", "sub": null}
+	]}
+]}
